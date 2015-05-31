@@ -1,7 +1,7 @@
 # DDEA
 Data Driven Energy Analytics
 
-## 1. Pre-requisites  
+## 1. Prerequisite Python Packages  
 
 - Install following packages to Ubuntu. 
 ```sh
