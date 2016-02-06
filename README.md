@@ -1,5 +1,7 @@
 # DDEA
-Data Driven Energy Analytics
+Data Driven Energy Analytics  
+-  data analytics engine for a large scale sensor database of BEMS
+
 
 ## 1. Prerequisite Python Packages  
 
